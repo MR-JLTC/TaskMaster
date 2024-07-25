@@ -1,7 +1,7 @@
 <div align="center">
 ▀█▀ ▄▀█ █▀ █▄▀ █▀▄▀█ ▄▀█ █▀ ▀█▀ █▀▀ █▀█<br>
 ░█░ █▀█ ▄█ █░█ █░▀░█ █▀█ ▄█ ░█░ ██▄ █▀▄<br>
-<h3>:octocat:Midrange task management system</h3>
+<h3>:octocat:Midrange task management system:octocat:</h3>
 </div>
 
 ## :octocat:SYSTEM AVAILABILITY
